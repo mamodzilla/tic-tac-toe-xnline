@@ -4,3 +4,5 @@ Tic-Tac-Toe Xnline is a realization of the Tic-Tac-Toe game in an online format.
 Client-side: React.js.
 
 Server-side: Node.js.
+
+Check code on branches "client" and "server".
